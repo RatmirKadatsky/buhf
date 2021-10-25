@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.цунаде {
+	margin: auto;
+	display: block;
+	border-radius: 140px;
+}
+
+div {
+	display: inline-block;
+	background: #0703ff;
+	margin: 4%;
+	color: #eeedfafd;
+	text-align: center;
+}
+
+
+
+
